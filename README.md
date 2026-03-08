@@ -110,13 +110,7 @@ http://127.0.0.1:5000
 
 ![Solution Result](solution-result.png)
 
-### Puzzle Interface
 
-![Puzzle Interface](puzzle-interface.png)
-
-### A* Solution Result
-
-![Solution Result](solution-result.png)
 
 ---
 
