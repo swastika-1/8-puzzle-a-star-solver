@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>8 Puzzle Solver - A*</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<h1>8 Puzzle Solver using A*</h1>
+
+<div class="board" id="board"></div>
+
+<h3>Live Steps: <span id="liveSteps">0</span></h3>
+
+<label>Animation Speed:</label>
+<input type="range" min="100" max="1000" value="500" id="speedSlider">
+
+<br><br>
+
+<button onclick="shuffle()">Shuffle</button>
+<button id="solveBtn" onclick="solvePuzzle()">Solve with A*</button>
+
+<h2>Result</h2>
+<div id="result"></div>
+
+<script src="/static/script.js"></script>
+
+</body>
+</html>
