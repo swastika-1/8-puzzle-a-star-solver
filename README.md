@@ -106,6 +106,12 @@ http://127.0.0.1:5000
 
 ![Puzzle Interface](puzzle-interface.png)
 
+### Manual Solve Start
+![Manual Solve Start](manual-solve-start.png)
+
+### Manual Solve Result
+![Manual Solve Result](manual-solve-result.png)
+
 ### A* Solution Result
 
 ![Solution Result](solution-result.png)
